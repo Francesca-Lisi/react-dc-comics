@@ -1,8 +1,10 @@
 
 const Main = () => {
   return (
-    <main>
-      <h1>Main</h1>
+    <main className="text-bg-dark">
+      <div className="container">
+        <h2 className="">Content goes here</h2>
+      </div>
     </main>
   )
 }

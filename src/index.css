@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Open Sans;
+}
+
+
+/*  Header  */
+header {
+  height: 120px;
+  justify-content: space-between;
+}
+
+
+header img {
+  height: 80px;
+  margin: 20px 0;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+
+header ul li a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 15px;
+}
+
+
+
+
+/*   Main   */
+
+main {
+  padding: 50px;
+}
