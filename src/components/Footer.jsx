@@ -1,8 +1,9 @@
+import FooterTop from "./FooterTop"
 
 const Footer = () => {
   return (
-    <footer>
-      Footer
+    <footer className="bg-primary">
+      <FooterTop />
     </footer>
   )
 }

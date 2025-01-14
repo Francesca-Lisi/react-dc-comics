@@ -32,11 +32,37 @@ header ul li a {
   padding: 15px;
 }
 
+header ul li a:hover {
+  color: #0C7CEC;
 
+}
 
 
 /*   Main   */
 
 main {
   padding: 50px;
+}
+
+/*  Footer  */
+footer {
+  height: 160px;
+  background-color: #0282f9;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+}
+
+.footer-top img {
+  height: 45px;
+  max-width: 50px;
+  margin: 10px;
+}
+
+.footer-top {
+  height: 100%;
+  align-content: center;
 }
