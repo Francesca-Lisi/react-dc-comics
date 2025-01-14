@@ -66,3 +66,26 @@ footer a {
   height: 100%;
   align-content: center;
 }
+
+/*Footer Menus*/
+
+#FooterMenus {
+  background-image: url(./assets/img/footer-bg.jpg);
+  height: 370px;
+  position: relative;
+  color: white;
+}
+
+#FooterMenus .row {
+  padding: 40px 0;
+  width: 40%;
+}
+
+#FooterMenus ul {
+
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  font-weight: 100;
+  font-size: 13px;
+}
