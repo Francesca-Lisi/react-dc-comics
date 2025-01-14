@@ -114,4 +114,32 @@ footer a {
   background-color: #303030;
   position: relative;
   z-index: 10;
+  height: 120px;
+
+}
+
+#FooterBottom .container {
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 38px;
+}
+
+#FooterBottom button {
+  padding: 8px 16px;
+  background-color: #303030;
+  border-color: #0282f9;
+  color: white;
+}
+
+#FooterBottom ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+
+#FooterBottom ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 15px;
 }

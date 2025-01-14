@@ -8,7 +8,7 @@ import PeriscopeImg from '../assets/img/footer-periscope.png'
 const FooterBottom = () => {
   return (
     <div id='FooterBottom'>
-      <div>
+      <div className='container d-flex'>
         <button>SIGN-UP NOW</button>
 
         <ul>
