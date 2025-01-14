@@ -1,11 +1,13 @@
 import FooterTop from "./FooterTop"
-import FooterMenus from "../FooterMenus"
+import FooterMenus from "./FooterMenus"
+import FooterBottom from "./FooterBottom"
 
 const Footer = () => {
   return (
-    <footer className="bg-primary">
+    <footer>
       <FooterTop />
       <FooterMenus />
+      <FooterBottom />
     </footer>
   )
 }

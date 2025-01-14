@@ -1,9 +1,9 @@
-
+import DcImage from '../assets/img/dc-logo-bg.png'
 
 const FooterMenus = () => {
   return (
     <div id="FooterMenus">
-      <div className="container">
+      <div className="container d-flex">
         <div className="row row-cols-3">
 
           <div className="col">
@@ -105,7 +105,9 @@ const FooterMenus = () => {
         </div>
 
 
-        <div>IMG </div>
+        <div id='logoImg'>
+          <img src={DcImage} alt="" />
+        </div>
       </div>
     </div>
   )
