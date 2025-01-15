@@ -1,6 +1,6 @@
-import FooterTop from "./FooterTop"
-import FooterMenus from "./FooterMenus"
-import FooterBottom from "./FooterBottom"
+import FooterTop from "./partials/FooterTop"
+import FooterMenus from "./partials/FooterMenus"
+import FooterBottom from "./partials/FooterBottom"
 
 const Footer = () => {
   return (

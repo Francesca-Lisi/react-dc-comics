@@ -1,4 +1,4 @@
-import DcImage from '../assets/img/dc-logo-bg.png'
+import DcImage from '../../assets/img/dc-logo-bg.png'
 
 const FooterMenus = () => {
   return (

@@ -1,8 +1,8 @@
-import DigitalComicsImg from '../assets/img/buy-comics-digital-comics.png'
-import MerchandiseImg from '../assets/img/buy-comics-merchandise.png'
-import SubscriptionImg from '../assets/img/buy-comics-subscriptions.png'
-import LocatorImg from '../assets/img/buy-comics-shop-locator.png'
-import VisaImg from '../assets/img/buy-dc-power-visa.svg'
+import DigitalComicsImg from '../../assets/img/buy-comics-digital-comics.png'
+import MerchandiseImg from '../../assets/img/buy-comics-merchandise.png'
+import SubscriptionImg from '../../assets/img/buy-comics-subscriptions.png'
+import LocatorImg from '../../assets/img/buy-comics-shop-locator.png'
+import VisaImg from '../../assets/img/buy-dc-power-visa.svg'
 
 
 const FooterTop = () => {

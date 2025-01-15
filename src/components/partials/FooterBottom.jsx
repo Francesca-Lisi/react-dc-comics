@@ -1,8 +1,8 @@
-import FacebookImg from '../assets/img/footer-facebook.png'
-import TwitterImg from '../assets/img/footer-twitter.png'
-import YoutubeImg from '../assets/img/footer-youtube.png'
-import PinterestImg from '../assets/img/footer-pinterest.png'
-import PeriscopeImg from '../assets/img/footer-periscope.png'
+import FacebookImg from '../../assets/img/footer-facebook.png'
+import TwitterImg from '../../assets/img/footer-twitter.png'
+import YoutubeImg from '../../assets/img/footer-youtube.png'
+import PinterestImg from '../../assets/img/footer-pinterest.png'
+import PeriscopeImg from '../../assets/img/footer-periscope.png'
 
 
 const FooterBottom = () => {
